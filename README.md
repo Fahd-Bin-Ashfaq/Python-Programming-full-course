@@ -1,17 +1,18 @@
-# Course Outline
+Python Programming Tutorial:
 
-## Introduction to Software Engineering
-- Overview of Software Development
-- Software Development Life Cycle
+This repository contains tutorials for Python programming. Each class has a README.md file that provides a detailed description and content for that specific class.
 
-## Requirements Engineering
-- Gathering Requirements
-- Use Case Diagrams
 
-## Software Design
-- Design Patterns
-- Architectural Styles
 
-## Software Testing
-- Testing Strategies
-- Automated Testing
+Where to learn code and practice coding problems
+HackerRank
+LeetCode
+CodeChef
+CodeForces
+GeeksForGeeks
+HackerEarth
+TopCoder
+Project Euler
+Codewars
+
+Made By: Fahad Bin Ashfaq 
