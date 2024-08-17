@@ -40,3 +40,10 @@ You can find out the data type of any object by using the `type()` function:
 ```python
 x = 5
 print(type(x))  # Output: <class 'int'>
+
+## Practice Questions and Resources
+
+- **Practice Questions**: [HackerRank Python Practice](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+- **YouTube Channel**: [My Python Playlist](https://www.youtube.com/playlist?list=PLX1eV90xXed2wujMJKUdsWQu2UMS9ROGO)
+
+Explore these resources to test your knowledge and enhance your programming skills!
