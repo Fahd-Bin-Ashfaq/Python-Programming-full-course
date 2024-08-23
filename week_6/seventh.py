@@ -11,3 +11,9 @@ if number >= 0:
         print("The number is greater than 100.")
 else:
     print("The number is negative.")
+
+
+
+for i in range(3):  # Outer loop
+    for j in range(2):  # Inner loop
+        print(f"i = {i}, j = {j}")
