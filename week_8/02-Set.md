@@ -1,5 +1,8 @@
-Sets are used to store multiple items in a single variable.
+## Python Data Types: List, Set, Tuple, and Dictionary
 
+### 2. Set
+
+Sets are used to store multiple items in a single variable.
 A **set** is one of the 4 built-in data types in Python used to store collections of data. The other 3 are **List**, **Tuple**, and **Dictionary**, each with different qualities and usage.
 
 A **set** is a collection that is:
