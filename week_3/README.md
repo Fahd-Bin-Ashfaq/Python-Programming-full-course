@@ -73,7 +73,7 @@ Bitwise operators perform operations on the binary representations of integers.
 
 ### 🭝 Python Operations - Practice Questions
 
-This document contains practice questions to help you strengthen your understanding of **Python operators**, including:
+practice questions  **Python operators**, including:
 
 - Arithmetic Operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 - Comparison Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
